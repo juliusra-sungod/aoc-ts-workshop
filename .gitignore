@@ -1,0 +1,7 @@
+node_modules/
+
+# Puzzle data is per-person and must not be redistributed (AoC policy).
+# Create these locally by copying from the puzzle's page.
+sample.txt
+input.txt
+*.input.txt

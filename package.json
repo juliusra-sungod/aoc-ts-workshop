@@ -1,0 +1,16 @@
+{
+  "name": "aoc-ts-workshop",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "part1": "tsx watch --include=\"*.txt\" part1.ts",
+    "part2": "tsx watch --include=\"*.txt\" part2.ts",
+    "part1:once": "tsx part1.ts",
+    "part2:once": "tsx part2.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "tsx": "^4"
+  }
+}
